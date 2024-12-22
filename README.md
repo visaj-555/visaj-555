@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visaj-555&label=Profile%20views&color=0e75b6&style=flat" alt="visaj-555" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visaj-555" alt="visaj-555" /></a> </p>
 
 - 🔭 I’m currently working in **Seven Sqauare Technosoft**
 
